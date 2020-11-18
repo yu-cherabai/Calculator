@@ -11,7 +11,7 @@ public class Main {
         System.out.println("\t\t\t\t\t    КАЛЬКУЛЯТОР");
         System.out.println("Калькулятор умеет: +, -, *, /, %, ^, koren(kor), system 2;");
         System.out.println("Пример возведения в степень: 2 ^ 3 =   8");
-        System.out.println("\t\ts\t\t\t\t\t 4 ^ 4 = 256");
+        System.out.println("\t\t\t\t\t\t\t 4 ^ 4 = 256");
         System.out.println("Пример взяти корня: 2 kor/koren  16 = 4");
         System.out.println("\t\t\t\t\t3 kor/koren 125 = 5");
         System.out.println("Пример перевода в двоичную систему счисления:\n" +
